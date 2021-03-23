@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "676975574725",
+    "project_id": "ucpportal-d4f8a",
+    "storage_bucket": "ucpportal-d4f8a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:676975574725:android:09c6e060ee58e1fda03aac",
+        "android_client_info": {
+          "package_name": "com.example.ucpportal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "676975574725-04jvntlpsc49ce1oqrbubthehmpleb5u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiU6cduf1t-m78ct2Xyg9I9tBxMXr3naw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "676975574725-04jvntlpsc49ce1oqrbubthehmpleb5u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
